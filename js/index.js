@@ -14,7 +14,7 @@
         return Math.random() >= 0.5;
     }
 	//富强民主文明和谐自由平等公正法治爱国敬业诚信友善
-    const values = '椎名真白伊莉雅凉风青叶紫苑寺有子黄前久美子雏鹤爱';
+    const values = '椎名真白伊莉雅凉风青叶黄前久美子和泉纱雾薇尔莉特';
 
     function str2utf8(str){
         // return in hex
